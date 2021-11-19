@@ -10,7 +10,8 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: #121212;
+  background: #181818;
+  color: #e8e8e8;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }

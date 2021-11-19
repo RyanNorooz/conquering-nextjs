@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "target": "ES2016",
     "module": "ESNext",
     "lib": ["DOM", "DOM.Iterable", "ESNext"],

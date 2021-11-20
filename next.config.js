@@ -7,4 +7,9 @@ module.exports = {
 
   basePath: baseURL,
   assetPrefix: baseURL,
+
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
 }
